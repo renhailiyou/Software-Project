@@ -42,7 +42,7 @@ AB、BC、CE、EF、FI、IK、KL
 
 ### 3、人力资源组织结构
 #### 国外软件开发团队管理方式评估（娱乐面）
-
+![EX5-4](https://github.com/renhailiyou/Software-Project/blob/main/MATERIAL/ex5-4.png)
 #### 国内软件开发团队管理方式评估
 臭名昭著的996工作制。
 #### 个人角度分析
