@@ -5,4 +5,4 @@
 3、练习用各种静态建模工具（E-R、UML等）对所负责的项目进行建模，与用户沟通  
 
 ### 使用E-R图对项目建模
-![]()
+![EX7-1](https://github.com/renhailiyou/Software-Project/blob/main/MATERIAL/ex7-1.png)
