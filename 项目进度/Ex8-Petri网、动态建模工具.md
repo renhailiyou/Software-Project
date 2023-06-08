@@ -31,7 +31,7 @@ Petri网是一种形式化的图形工具，用于建模和分析并发系统和
 根据问题域的要求，可能需要添加其他元素或属性来完善Petri网模型。例如，可以添加时间约束、资源约束或优先级规则。
 
 ### Hey Slim用户登录模块Petri网及注释
-
+![EX8-1](https://github.com/renhailiyou/Software-Project/blob/main/MATERIAL/ex8-1.png)
 #### Petri网注释
 | 位置 | 含义 |
 |---|---|
